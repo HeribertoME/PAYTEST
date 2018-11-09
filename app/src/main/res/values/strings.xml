@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Test Billing</string>
+    <string name="menu_settings">Configuracion</string>
+    <string name="title_activity_main">My Trivial Drive</string>
+
+    <string name="alert_no_gas">Oh, no! No tienes gasolina! Intenta comprando gasolina!</string>
+    <string name="alert_drove">Vrooo…, manejaste unos kilometros.</string>
+    <string name="alert_fill_gas">Llenaste &#188; el tank. Tu tanque ahora esta %1$d/4 de capacidad!</string>
+    <string name="alert_error_consuming">Error mientras consumias: %1$s</string>
+    <string name="alert_already_purchased">El elemento ya esta comprado</string>
+
+    <string name="error_no_skus">No hemos encontrado ningún SKU para mostrar&#8230; Revisa tu conexión
+          a internet y asegúrate de que la Google Developer Console se haya configurado correctamente.</string>
+    <string name="error_billing_unavailable">Facturación no disponible. Asegúrate de que tu aplicación Google Play
+        está configurada correctamente</string>
+    <string name="error_billing_default">Facturación no disponible. Por favor revise su dispositivo.</string>
+    <string name="error_not_finished">TODO: Here you will need to perform the
+        integration with Play Store to study the New way of integration with Play Billing.
+    </string>
+
+    <string name="button_drive">Manejar</string>
+    <string name="button_purchase">Compras</string>
+    <string name="button_buy">Comprar</string>
+    <string name="button_full_tank">Tanque lleno</string>
+    <string name="toast_full_tank">Tu tanque esta lleno, por favor usa algo de gas antes de comprar mas.</string>
+
+    <string name="content_description_app_loading_image">Cargando imagen de app</string>
+    <string name="content_description_title_image">80\'s Video Game Style Car Logo</string>
+    <string name="content_desc_gas_gauge_indicator">Gas gauge indicator</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+
+</resources>

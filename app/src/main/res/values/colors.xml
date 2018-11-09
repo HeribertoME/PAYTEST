@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474F</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#4285f4</color>
+
+    <color name="list_bg_color">#eeeeee</color>
+    <color name="row_header_bg_color">#ffffff</color>
+    <color name="row_bg_color">#ffffff</color>
+
+    <color name="disabled_color">#90b1b0</color>
+    <color name="gold">#ffbf00</color>
+</resources>
